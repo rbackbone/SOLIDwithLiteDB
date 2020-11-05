@@ -1,6 +1,6 @@
 
    C# - SOLID - Projeto implementado com base no curso da Alura
-   LiteDB (litedb.org)
+   mas aqui utilizando LiteDB (litedb.org)
 
     Melhores Práticas
    ----------------------------------------------------------
