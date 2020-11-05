@@ -21,7 +21,7 @@
          são diferentes do tipo gerado pelo LiteDB; Optei por continuar com o 
          tipo inteiro gerando um ID no construtor (para fins didáticos) 
 
-	Rotas:
+	- Rotas:
        --------------------------------------------------------------
 
  	Além da aplicação web pode-se utilizar a rota de administração
