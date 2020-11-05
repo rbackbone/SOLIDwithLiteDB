@@ -12,14 +12,14 @@
 
    - O projeto inicalmente usava SQLServer / EntityFramework;
    - Fiz a portabilidade para o LiteDB sem ter que alterar o Controller 
-     nem a camada de serviços ; Uma alteração pontual no Modelo;
+     nem a camada de serviços ; Uma alteração pontual no Modelo.
    
    Obs.: Durante o curso a dependência com o tipo Inteiro foi observada
-         mas elencada como uma mudança pouco provável;
+         mas elencada como uma mudança pouco provável.
 
          No entanto as chaves primárias auto-incrementadas gerdas pelo Entity 
          são diferentes do tipo gerado pelo LiteDB; Optei por continuar com o 
-         tipo inteiro gerando um ID no construtor (para fins didáticos); 
+         tipo inteiro gerando um ID no construtor (para fins didáticos) 
 
 	Rotas:
        --------------------------------------------------------------
