@@ -5,6 +5,7 @@
     Melhores Práticas
    ----------------------------------------------------------
    - princípio de responsabilidade única
+   - princípio do aberto / fechado
    - princípio de inversão de dependência
    - substituição de Liskov (coesão ao implementar abstrações)
    - princípio de segregação de interface
